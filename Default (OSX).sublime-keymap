@@ -1,0 +1,7 @@
+[
+	{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["alt+super+up"], "command": "duplicate_line" },
+	{ "keys": ["alt+super+down"], "command": "duplicate_line" },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" }
+]
